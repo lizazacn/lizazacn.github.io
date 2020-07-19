@@ -1,0 +1,30 @@
+.top{
+    width: 100vw;
+    height: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 36px;
+    line-height: 10vh;
+    text-align: center;
+    background-color: dodgerblue;
+    color: white;
+}
+.center{
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.center iframe{
+    border: 0;
+    width: 95vw;
+    height: 85vh;
+}
+.foot{
+    width: 100vw;
+    height: 5vh;
+    color: #ffffff;
+    line-height: 5vh;
+    background-color: #323232;
+    text-align: center;
+}
